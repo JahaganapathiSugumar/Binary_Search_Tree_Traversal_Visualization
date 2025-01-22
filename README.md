@@ -6,10 +6,8 @@ An interactive Binary Search Tree (BST) visualization tool that helps users unde
 Check out the live demo here: [BST Visualizer](https://bstvisualizer.netlify.app/)
 
 ## 📸 Screenshots
-![Home Page](![screencapture-bstvisualizer-netlify-app-2025-01-22-10_07_35](https://github.com/user-attachments/assets/ef6204d5-2048-4b38-84ef-77db7888c2c6)
-)
-![Simulation Page](![screencapture-bstvisualizer-netlify-app-simulation-2025-01-22-10_08_01](https://github.com/user-attachments/assets/afcce5e6-0964-46c4-a345-d129c5bce283)
-)
+![Home Page](![screencapture-bstvisualizer-netlify-app-2025-01-22-10_07_35](https://github.com/user-attachments/assets/ef6204d5-2048-4b38-84ef-77db7888c2c6))
+![Simulation Page](![screencapture-bstvisualizer-netlify-app-simulation-2025-01-22-10_08_01](https://github.com/user-attachments/assets/afcce5e6-0964-46c4-a345-d129c5bce283))
 
 ## ✨ Features
 ### 🌟 Interactive BST Operations
